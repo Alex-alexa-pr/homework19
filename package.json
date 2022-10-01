@@ -1,0 +1,19 @@
+{
+  "name": "homework19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-alexa-pr/homework19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-alexa-pr/homework19/issues"
+  },
+  "homepage": "https://github.com/Alex-alexa-pr/homework19#readme"
+}
